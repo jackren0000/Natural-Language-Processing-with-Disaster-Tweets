@@ -1,4 +1,4 @@
-# Natural Language Processing with Disaster Tweets
+# [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started/overview)
 
 ## Overview
 This repository contains materials related to the Kaggle competition "Natural Language Processing with Disaster Tweets" where participants are tasked to predict whether a tweet is about a real disaster or not.
